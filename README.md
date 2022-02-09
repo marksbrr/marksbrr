@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marks!</h1>
 <h3 align="center">Front-end software developer.</h3>
 
-- 🌱 I’m currently using **Angular, VueJs and React**
+- 🌱 I’m currently using **React VueJs and Angular**
 
 - 📫 You can reach me on **burganovsm@gmail.com**
 
