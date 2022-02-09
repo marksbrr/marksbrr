@@ -11,7 +11,7 @@
 </p>
 
 <h3>My latest projects</h3>
-<a href="https://github.com/marksbrr/TipCalculator-React">Tip Calculator-React</a>
+<a href="https://github.com/marksbrr/TipCalculator-React">Tip Calculator-React</a><br />
 <a href="https://github.com/marksbrr/FormValidation-React">Form Validation-React</a>
 
 <h3 align="left">Languages and Tools:</h3>
